@@ -1,0 +1,16 @@
+{
+    "dishes": [
+        {
+            "name": "dosa",
+            "ingredients": {
+                "rice": 2,
+                "tomato": 2,
+                "lentil": 2,
+                "onion": 1,
+                "green chilli": 1,
+                "ginger": 0.5,
+                "salt": 0.25
+            }
+        }
+    ]
+}
